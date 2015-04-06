@@ -8,6 +8,8 @@ title: 'Upgrade PHP'
 ########
 # more settings
 
+google_analytics_id: UA-61505799-1
+
 markdown: kramdown
 
 sass:
